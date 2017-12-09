@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h

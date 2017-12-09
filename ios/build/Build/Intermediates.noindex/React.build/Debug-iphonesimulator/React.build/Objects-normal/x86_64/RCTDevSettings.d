@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTJSEnvironment.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/Nico/Documents/partycode/cryptocurrency/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
