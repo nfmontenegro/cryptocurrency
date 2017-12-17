@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		vr3Jvo3gN+HG/lz74X9sRcnfpT0=
+		pXwRk+PaUvbuhbXaevhO4LG4U84=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cS2oGpn09DhbcPjfP+Kh6M6yjJs=
+		49Zuk+WniaAkKUg2/QAaVYkozGo=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -75,7 +75,7 @@
 		</data>
 		<key>PlugIns/cryptocurrencyTests.xctest/cryptocurrencyTests</key>
 		<data>
-		xHCuaGn55lKzwZ04thnSYllhGlY=
+		2nxxNkzWEeK/1h37E/lcKymgyvQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vr3Jvo3gN+HG/lz74X9sRcnfpT0=
+			pXwRk+PaUvbuhbXaevhO4LG4U84=
 			</data>
 			<key>hash2</key>
 			<data>
-			LFmvhNpvtjivT0R36PpA11GUVK8VKp6Sg2cCCpk2U1Q=
+			w62T7Z2fU0b8ZeSiMqc7JW9euR99Nj0NLQhDn2wEV5Y=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -240,11 +240,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xHCuaGn55lKzwZ04thnSYllhGlY=
+			2nxxNkzWEeK/1h37E/lcKymgyvQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			VzmtAUH0Ssz8sH3PvPPo/01ils/igcSNlHGrhLdlsos=
+			VunT6aGJlvmUKl5+TSXJp8ilMKpuYKKBvSmGXOWxPHM=
 			</data>
 		</dict>
 	</dict>

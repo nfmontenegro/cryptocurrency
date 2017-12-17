@@ -11,6 +11,7 @@ class CryptoContainer extends Component {
 
   componentWillMount() {
     this.props.FetchCoinData();
+    this.interval = setInterval(() => this.props.FetchCoinData(), 10 * 1000);
   }
 
   renderCoinCards() {

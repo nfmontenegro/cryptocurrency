@@ -95,7 +95,7 @@ const CoinCard = ({ symbol, coin_name, price_usd, percent_change_24h, percent_ch
         <Text style={seperator}>|</Text>
         <Text style={coinName}>{coin_name}</Text>
         <Text style={coinPrice}>{price_usd}
-            <Text style={moneySymbol}> $ </Text>
+        <Text style={moneySymbol}> $ </Text>
         </Text>
       </View>
 
